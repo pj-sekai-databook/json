@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "created_date": "2022-03-12T09:42:31.347Z",
+    "created_date": "2022-03-16T08:33:34.755Z",
     "contents": {
         "sekai_station": [
             {
@@ -189,6 +189,17 @@
                     "mizuki"
                 ],
                 "posted_date": "2022-02-09T15:00:00.000Z"
+            },
+            {
+                "title": "#06 レオニードスタイル",
+                "link": "https://www.youtube.com/watch?v=fKLq0sFnF2c",
+                "characters": [
+                    "ichika",
+                    "saki",
+                    "honami",
+                    "shiho"
+                ],
+                "posted_date": "2022-03-14T15:00:00.000Z"
             },
             {
                 "title": "#07 時空を超えてわんだほーい！",
