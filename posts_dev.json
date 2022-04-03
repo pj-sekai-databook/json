@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "created_date": "2022-03-26T09:41:08.744Z",
+    "created_date": "2022-04-03T01:39:22.310Z",
     "contents": {
         "after_talk": [
             {
@@ -560,6 +560,322 @@
                     "rui"
                 ],
                 "posted_date": "2020-10-22T15:00:00.000Z"
+            }
+        ],
+        "night_radio": [
+            {
+                "title": "#38",
+                "link": "https://www.youtube.com/watch?v=AklhXvLwVmw",
+                "characters": [
+                    "mizuki",
+                    "an"
+                ]
+            },
+            {
+                "title": "#37",
+                "link": "https://www.youtube.com/watch?v=zgCRJq1dPWk",
+                "characters": [
+                    "ena",
+                    "mizuki",
+                    "haruka",
+                    "shizuku"
+                ]
+            },
+            {
+                "title": "#36",
+                "link": "https://www.youtube.com/watch?v=catfyCTlaWc",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#35",
+                "link": "https://www.youtube.com/watch?v=XdcFaYnp7OA",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#34",
+                "link": "https://www.youtube.com/watch?v=tnAGDjNQ5sU",
+                "characters": [
+                    "kanade",
+                    "mafuyu",
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#33",
+                "link": "https://www.youtube.com/watch?v=TIp_7WcRSHY",
+                "characters": [
+                    "kanade",
+                    "mafuyu"
+                ]
+            },
+            {
+                "title": "#32",
+                "link": "https://www.youtube.com/watch?v=gOHPFHpPLCw",
+                "characters": [
+                    "mafuyu",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#31",
+                "link": "https://www.youtube.com/watch?v=y6gMv49xqfE",
+                "characters": [
+                    "mafuyu",
+                    "mizuki",
+                    "rin",
+                    "len"
+                ]
+            },
+            {
+                "title": "#30",
+                "link": "https://www.youtube.com/watch?v=CvqNUmpjUkc",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#29",
+                "link": "https://www.youtube.com/watch?v=eNpV6xdduSo",
+                "characters": [
+                    "mafuyu",
+                    "ena",
+                    "akito"
+                ]
+            },
+            {
+                "title": "#28",
+                "link": "https://www.youtube.com/watch?v=eG9uzlmerGY",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#27",
+                "link": "https://www.youtube.com/watch?v=rNQPPclZEhM",
+                "characters": [
+                    "mafuyu",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#26",
+                "link": "https://www.youtube.com/watch?v=sU0d5r4DV5U",
+                "characters": [
+                    "mafuyu",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#25",
+                "link": "https://www.youtube.com/watch?v=azR3YEG0-rk",
+                "characters": [
+                    "mafuyu",
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#24",
+                "link": "https://www.youtube.com/watch?v=KWT-HoGQIIk",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#23",
+                "link": "https://www.youtube.com/watch?v=ct6UWfVUsl8",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#22",
+                "link": "https://www.youtube.com/watch?v=-sWj5ju74kE",
+                "characters": [
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#21",
+                "link": "https://www.youtube.com/watch?v=L8OX5BKcG_o",
+                "characters": [
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#20",
+                "link": "https://www.youtube.com/watch?v=su1LKHu6QPo",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#19",
+                "link": "https://www.youtube.com/watch?v=zIyKle9pFKY",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#18",
+                "link": "https://www.youtube.com/watch?v=jP6S6kKH6zU",
+                "characters": [
+                    "mafuyu",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#17",
+                "link": "https://www.youtube.com/watch?v=X5tRiIaLUCU",
+                "characters": [
+                    "mafuyu",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#16",
+                "link": "https://www.youtube.com/watch?v=XCqViDgVS7c",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#15",
+                "link": "https://www.youtube.com/watch?v=FkeRDR-QlME",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#14",
+                "link": "https://www.youtube.com/watch?v=MbmPMgZTRPk",
+                "characters": [
+                    "mafuyu",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#13",
+                "link": "https://www.youtube.com/watch?v=icL8qDj6emw",
+                "characters": [
+                    "mafuyu",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#12",
+                "link": "https://www.youtube.com/watch?v=0k2AnpEbHGA",
+                "characters": [
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#11",
+                "link": "https://www.youtube.com/watch?v=hiZ_U71PVak",
+                "characters": [
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#10",
+                "link": "https://www.youtube.com/watch?v=g_3Pm92Lbz4",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#9",
+                "link": "https://www.youtube.com/watch?v=_xjJ1VjBV8w",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#8",
+                "link": "https://www.youtube.com/watch?v=6wXL3UnXx9A",
+                "characters": [
+                    "kanade",
+                    "mafuyu",
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#7",
+                "link": "https://www.youtube.com/watch?v=sDlueZcrG48",
+                "characters": [
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#6",
+                "link": "https://www.youtube.com/watch?v=TgBT4ss6Ndg",
+                "characters": [
+                    "kanade",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#5",
+                "link": "https://www.youtube.com/watch?v=cpVBgz8CtYI",
+                "characters": [
+                    "kanade",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#4",
+                "link": "https://www.youtube.com/watch?v=HeCSk-LDaqE",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#3",
+                "link": "https://www.youtube.com/watch?v=G6p4XY8YuaM",
+                "characters": [
+                    "mafuyu",
+                    "ena"
+                ]
+            },
+            {
+                "title": "#2",
+                "link": "https://www.youtube.com/watch?v=YsbWFPCIHOU",
+                "characters": [
+                    "ena",
+                    "mizuki"
+                ]
+            },
+            {
+                "title": "#1",
+                "link": "https://www.youtube.com/watch?v=NLPYUSqJx9c",
+                "characters": [
+                    "ena",
+                    "mizuki"
+                ]
             }
         ],
         "puchiseka": [
