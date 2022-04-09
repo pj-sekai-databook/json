@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "created_date": "2022/04/09 13:45:11",
+    "created_date": "2022/04/09 13:49:48",
     "contents": {
         "birthday_img": [
             {
@@ -427,6 +427,16 @@
             }
         ],
         "anniversary_img": [
+            {
+                "title": "ホワイトデー2022",
+                "link": "https://twitter.com/pj_sekai/status/1503023080922181632",
+                "characters": [
+                    "len",
+                    "rui"
+                ],
+                "img": "https://pbs.twimg.com/media/FNkixGGaMAQf78Z?format=jpg&name=900x900",
+                "posted_date": "2022/03/14"
+            },
             {
                 "title": "ミクの日2022",
                 "link": "https://twitter.com/pj_sekai/status/1501211142647132163",
