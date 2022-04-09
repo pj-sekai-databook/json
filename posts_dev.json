@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "created_date": "2022/04/09 14:16:35",
+    "created_date": "2022/04/09 14:22:46",
     "contents": {
         "four_frame": [
             {
@@ -14,7 +14,7 @@
                     "ena",
                     "mizuki"
                 ],
-                "img": "https://pbs.twimg.com/media/FPoRKwuacAYZHHz?format=jpg&name=4096x4096",
+                "img": "https://pbs.twimg.com/media/FPoRKwuacAYZHHz?format=jpg",
                 "posted_date": "2022/04/06"
             },
             {
@@ -24,7 +24,7 @@
                     "ena",
                     "akito"
                 ],
-                "img": "https://pbs.twimg.com/media/FOgKO5jaAAMPK2L?format=jpg&name=4096x4096",
+                "img": "https://pbs.twimg.com/media/FOgKO5jaAAMPK2L?format=jpg",
                 "posted_date": "2022/03/23"
             },
             {
@@ -35,7 +35,7 @@
                     "ena",
                     "mizuki"
                 ],
-                "img": "https://pbs.twimg.com/media/FOHOU23aIAERtcB?format=jpg&name=4096x4096",
+                "img": "https://pbs.twimg.com/media/FOHOU23aIAERtcB?format=jpg",
                 "posted_date": "2022/03/19"
             },
             {
