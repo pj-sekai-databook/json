@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "created_date": "2022/04/10 10:55:57",
+    "created_date": "2022/04/10 17:56:20",
     "contents": {
         "four_frame": [
             {
@@ -1737,6 +1737,15 @@
             }
         ],
         "anniversary_img": [
+            {
+                "title": "1.5周年",
+                "link": "https://twitter.com/pj_sekai/status/1508821292430020617",
+                "characters": [
+                    "miku_night"
+                ],
+                "img": "https://pbs.twimg.com/media/FPAeXqLaUAItHQ-?format=jpg&name=900x900",
+                "posted_date": "2022/03/30"
+            },
             {
                 "title": "ホワイトデー2022",
                 "link": "https://twitter.com/pj_sekai/status/1503023080922181632",
