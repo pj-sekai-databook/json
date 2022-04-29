@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/04/30 08:21:22",
+    "created_date": "2022/04/30 08:45:31",
     "contents": [
         {
             "id": "after_talk",
@@ -3849,13 +3849,47 @@
             "content": [
                 {
                     "title": "ミクの日&もうすぐ1.5周年生放送",
-                    "link": "https://www.youtube.com/watch?v=8XT6HLyhSoUU",
+                    "link": "https://www.youtube.com/watch?v=8XT6HLyhSoU",
                     "characters": [
                         "miku",
                         "kohane",
                         "ena"
                     ],
                     "posted_date": "2022/03/09"
+                },
+                {
+                    "title": "アニバーサリー生放送",
+                    "link": "https://www.youtube.com/watch?v=_VxsPsxEqsY",
+                    "characters": [
+                        "ichika",
+                        "haruka",
+                        "kohane",
+                        "tsukasa",
+                        "mafuyu"
+                    ],
+                    "posted_date": "2021/09/29"
+                },
+                {
+                    "title": "もうすぐ1周年！特別生放送",
+                    "link": "https://www.youtube.com/watch?v=oVs07tgpWrU",
+                    "characters": [
+                        "shiho",
+                        "airi",
+                        "akito",
+                        "tsukasa",
+                        "ena"
+                    ],
+                    "posted_date": "2021/09/03"
+                },
+                {
+                    "title": "もうすぐハーフアニバーサリー生放送",
+                    "link": "https://www.youtube.com/watch?v=Z5oRoWyja3k",
+                    "characters": [
+                        "miku",
+                        "shiho",
+                        "nene"
+                    ],
+                    "posted_date": "2021/03/09"
                 }
             ]
         },
@@ -3944,8 +3978,68 @@
             ]
         },
         {
+            "id": "movie",
+            "content": [
+                {
+                    "title": "セカイシンフォニー2021 ダイジェスト",
+                    "link": "https://www.youtube.com/watch?v=wuxtrul-nlQ",
+                    "characters": [
+                        "tsukasa",
+                        "nene"
+                    ]
+                },
+                {
+                    "title": "ニーゴ24時間(3)",
+                    "link": "https://www.youtube.com/watch?v=iirpWIYpSKw",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki"
+                    ]
+                },
+                {
+                    "title": "ニーゴ24時間(2)",
+                    "link": "https://www.youtube.com/watch?v=3r8xtntA3ZU",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki"
+                    ]
+                },
+                {
+                    "title": "ニーゴ24時間(1)",
+                    "link": "https://www.youtube.com/watch?v=JgSV96MQC6Q",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki"
+                    ]
+                }
+            ]
+        },
+        {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#40",
+                    "link": "https://www.youtube.com/watch?v=Q1Doyi__9Kw",
+                    "characters": [
+                        "ena",
+                        "mizuki",
+                        "airi"
+                    ]
+                },
+                {
+                    "title": "#39",
+                    "link": "https://www.youtube.com/watch?v=dMI7yVBA9vM",
+                    "characters": [
+                        "mafuyu",
+                        "ena"
+                    ]
+                },
                 {
                     "title": "#38",
                     "link": "https://www.youtube.com/watch?v=AklhXvLwVmw",
