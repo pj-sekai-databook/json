@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/04/30 07:50:29",
+    "created_date": "2022/04/30 08:21:22",
     "contents": [
         {
             "id": "after_talk",
@@ -3841,6 +3841,44 @@
                     ],
                     "img": "https://pbs.twimg.com/media/EvixN0AVoAIEtAK?format=jpg&name=medium",
                     "posted_date": "2021/03/03"
+                }
+            ]
+        },
+        {
+            "id": "live",
+            "content": [
+                {
+                    "title": "ミクの日&もうすぐ1.5周年生放送",
+                    "link": "https://www.youtube.com/watch?v=8XT6HLyhSoUU",
+                    "characters": [
+                        "miku",
+                        "kohane",
+                        "ena"
+                    ],
+                    "posted_date": "2022/03/09"
+                }
+            ]
+        },
+        {
+            "id": "more_live",
+            "content": [
+                {
+                    "title": "#1",
+                    "link": "https://www.youtube.com/watch?v=2CU0QRH7e8I",
+                    "characters": [
+                        "haruka",
+                        "airi"
+                    ],
+                    "posted_date": "2022/01/07"
+                },
+                {
+                    "title": "#0 (ハーフアニバ)",
+                    "link": "https://www.youtube.com/watch?v=B6OVT9twZy8",
+                    "characters": [
+                        "haruka",
+                        "shizuku"
+                    ],
+                    "posted_date": "2021/06/13"
                 }
             ]
         },
