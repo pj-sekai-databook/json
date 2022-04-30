@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/04/30 08:45:31",
+    "created_date": "2022/04/30 09:08:38",
     "contents": [
         {
             "id": "after_talk",
@@ -239,6 +239,81 @@
                         "ena"
                     ],
                     "posted_date": "2021/02/26"
+                }
+            ]
+        },
+        {
+            "id": "album",
+            "content": [
+                {
+                    "title": "ビビバス vol.1",
+                    "link": "https://bushiroad-music.com/musics/brmm-10499",
+                    "characters": [
+                        "kohane",
+                        "an",
+                        "akito",
+                        "toya",
+                        "miku_vivid",
+                        "len",
+                        "meiko"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/c3269f5e-fb7a-4b4b-b5f7-51bdd295f38a.jpg",
+                    "posted_date": "2022/06/01"
+                },
+                {
+                    "title": "レオニ vol.1",
+                    "link": "https://bushiroad-music.com/musics/brmm-10497",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho",
+                        "miku_leo",
+                        "luka"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/6cc4b933-886d-4811-a121-589ec6447f6d.jpg",
+                    "posted_date": "2022/05/11"
+                },
+                {
+                    "title": "ニーゴ vol.1",
+                    "link": "https://bushiroad-music.com/musics/brmm-10495",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki",
+                        "miku_night"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/8052ea20-1120-4b5b-b6b0-d1725b1f8125.jpg",
+                    "posted_date": "2022/04/06"
+                },
+                {
+                    "title": "モモジャン vol.1",
+                    "link": "https://bushiroad-music.com/musics/brmm-10493",
+                    "characters": [
+                        "minori",
+                        "haruka",
+                        "airi",
+                        "shizuku",
+                        "miku_more",
+                        "rin"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/10acf336-c7dd-4d78-b0d2-191f8a58a0c1.jpg",
+                    "posted_date": "2022/03/02"
+                },
+                {
+                    "title": "ワンダショ vol.1",
+                    "link": "https://bushiroad-music.com/musics/brmm-10491",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui",
+                        "miku_wonder",
+                        "kaito"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/ba2ab7ef-b533-4977-a1b7-8b79226e5962.jpg",
+                    "posted_date": "2022/02/02"
                 }
             ]
         },
@@ -4551,6 +4626,152 @@
                         "DECO*27"
                     ],
                     "posted_date": "2022/02/11"
+                }
+            ]
+        },
+        {
+            "id": "single",
+            "content": [
+                {
+                    "title": "ワンダショ 2nd",
+                    "link": "https://bushiroad-music.com/musics/brmm-10461",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui",
+                        "meiko",
+                        "kaito"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/b153ef2a-8720-4827-8550-93eec877b509.jpg",
+                    "posted_date": "2022/03/16"
+                },
+                {
+                    "title": "レオニ 2nd",
+                    "link": "https://bushiroad-music.com/musics/brmm-10460",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho",
+                        "miku_leo"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/5065cac8-5342-4504-9a32-c3c9d3cf17ba.jpg",
+                    "posted_date": "2022/02/16"
+                },
+                {
+                    "title": "ニーゴ 2nd",
+                    "link": "https://bushiroad-music.com/musics/brmm-10459",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki",
+                        "rin"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/254078cb-b868-443d-9563-58baa2cf6c6c.jpg",
+                    "posted_date": "2022/01/19"
+                },
+                {
+                    "title": "モモジャン 2nd",
+                    "link": "https://bushiroad-music.com/musics/brmm-10458",
+                    "characters": [
+                        "minori",
+                        "haruka",
+                        "airi",
+                        "shizuku",
+                        "luka"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/7e8e526a-6216-4b2b-bf4a-4d9ca2c0ce18.jpg",
+                    "posted_date": "2021/12/15"
+                },
+                {
+                    "title": "ビビバス 2nd",
+                    "link": "https://bushiroad-music.com/musics/brmm-10457",
+                    "characters": [
+                        "kohane",
+                        "an",
+                        "akito",
+                        "toya",
+                        "miku_vivid"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/5e352dba-bcc0-4661-86e4-0148e443af94.jpg",
+                    "posted_date": "2021/11/17"
+                },
+                {
+                    "title": "セカイ/ワーワーワールド/群青讃歌",
+                    "link": "https://bushiroad-music.com/musics/brmm-10482",
+                    "characters": [
+                        "miku",
+                        "ichika"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/f0df4c94-9786-43b9-8029-b01fab8cab52.jpg",
+                    "posted_date": "2021/12/08"
+                },
+                {
+                    "title": "ニーゴ 1st",
+                    "link": "https://bushiroad-music.com/musics/brmm-10406",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki",
+                        "miku_night"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/cebb7d64-858c-40df-be5a-ea7defa352a9.jpg",
+                    "posted_date": "2021/08/04"
+                },
+                {
+                    "title": "ワンダショ 1st",
+                    "link": "https://bushiroad-music.com/musics/brmm-10405",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui",
+                        "miku_wonder"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/4981626e-2abc-47f3-ae2c-bf25f16f058e.jpg",
+                    "posted_date": "2021/07/21"
+                },
+                {
+                    "title": "ビビバス 1st",
+                    "link": "https://bushiroad-music.com/musics/brmm-10404",
+                    "characters": [
+                        "kohane",
+                        "an",
+                        "akito",
+                        "toya",
+                        "miku_vivid"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/9401eedc-3a4e-42f7-89ff-452f435377d3.jpg",
+                    "posted_date": "2021/07/07"
+                },
+                {
+                    "title": "モモジャン 1st",
+                    "link": "https://bushiroad-music.com/musics/brmm-10403",
+                    "characters": [
+                        "minori",
+                        "haruka",
+                        "airi",
+                        "shizuku",
+                        "miku_more"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/98d2ceb1-7d8a-4cfd-bad8-16022f003435.jpg",
+                    "posted_date": "2021/06/23"
+                },
+                {
+                    "title": "レオニ 1st",
+                    "link": "https://bushiroad-music.com/musics/brmm-10402",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho",
+                        "miku_leo"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/d3ed9dd4-88ca-46a0-bf4a-e7427626b885.jpg",
+                    "posted_date": "2021/06/09"
                 }
             ]
         },
