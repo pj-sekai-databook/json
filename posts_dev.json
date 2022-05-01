@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/04/30 09:08:38",
+    "created_date": "2022/05/01 11:40:39",
     "contents": [
         {
             "id": "after_talk",
@@ -2357,6 +2357,16 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#104 ふわふわの約束",
+                    "link": "https://twitter.com/pj_sekai/status/1520236501715542017",
+                    "characters": [
+                        "ena",
+                        "airi"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FRb4wKHUUAAkD6j?format=jpg&name=4096x4096",
+                    "posted_date": "2022/04/30"
+                },
                 {
                     "title": "#103 ファンのためにできること",
                     "link": "https://twitter.com/pj_sekai/status/1519149340144635906",
