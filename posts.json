@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/05/21 16:00:30",
+    "created_date": "2022/05/25 21:49:15",
     "contents": [
         {
             "id": "after_talk",
@@ -893,6 +893,18 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "青柳冬弥",
+                    "link": "https://twitter.com/pj_sekai/status/1529115013805375489",
+                    "characters": [
+                        "toya",
+                        "akito",
+                        "kohane",
+                        "an"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FTgzQ9daQAAGexk?format=jpg&name=900x900",
+                    "posted_date": "2022/05/25"
+                },
                 {
                     "title": "天馬司",
                     "link": "https://twitter.com/pj_sekai/status/1526215904727642112",
@@ -2392,6 +2404,20 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#109 旅人と仲間たち",
+                    "link": "https://twitter.com/pj_sekai/status/1529296199886311425",
+                    "characters": [
+                        "toya",
+                        "akito",
+                        "mizuki",
+                        "tsukasa",
+                        "rui",
+                        "nene"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FTkXPHDagAIIuFL?format=jpg",
+                    "posted_date": "2022/05/25"
+                },
                 {
                     "title": "#108 昔からの大切な",
                     "link": "https://twitter.com/pj_sekai/status/1526397098488471555",
