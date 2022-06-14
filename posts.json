@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/06/09 21:18:32",
+    "created_date": "2022/06/14 21:36:45",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "迷い子の手を引く、そのさきは",
+                    "link": "https://www.youtube.com/watch?v=jHcKgJChx2g",
+                    "characters": [
+                        "mafuyu"
+                    ],
+                    "posted_date": "2022/06/18"
+                },
                 {
                     "title": "THE POWER OF UNITY",
                     "link": "https://www.youtube.com/watch?v=n1KztMnua-w",
@@ -4210,6 +4218,19 @@
             "id": "movie",
             "content": [
                 {
+                    "title": "コネクトライブ前日譚(ビビバス)",
+                    "link": "https://www.youtube.com/watch?v=irZ1q1hBUFQ",
+                    "characters": [
+                        "kohane",
+                        "an",
+                        "akito",
+                        "toya",
+                        "miku_vivid",
+                        "len",
+                        "meiko"
+                    ]
+                },
+                {
                     "title": "セカイシンフォニー2021 ダイジェスト",
                     "link": "https://www.youtube.com/watch?v=wuxtrul-nlQ",
                     "characters": [
@@ -4252,6 +4273,14 @@
         {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#43",
+                    "link": "https://www.youtube.com/watch?v=3ie7WKEkyus",
+                    "characters": [
+                        "mafuyu",
+                        "mizuki"
+                    ]
+                },
                 {
                     "title": "#42",
                     "link": "https://www.youtube.com/watch?v=SzwERcoZ9qQ",
