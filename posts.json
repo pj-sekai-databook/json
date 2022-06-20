@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/06/14 21:36:45",
+    "created_date": "2022/06/20 20:43:48",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "絶体絶命！？アイランドパニック！",
+                    "link": "https://www.youtube.com/watch?v=Q8GxVOKon2s",
+                    "characters": [
+                        "nene"
+                    ],
+                    "posted_date": "2022/06/28"
+                },
                 {
                     "title": "迷い子の手を引く、そのさきは",
                     "link": "https://www.youtube.com/watch?v=jHcKgJChx2g",
@@ -2412,6 +2420,21 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#112 そばにいたい",
+                    "link": "https://twitter.com/pj_sekai/status/1537268793306906625",
+                    "characters": [
+                        "len",
+                        "miku_night",
+                        "rin",
+                        "mafuyu",
+                        "kanade",
+                        "ena",
+                        "mizuki"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FVV5SXCaMAAtDw4?format=jpg",
+                    "posted_date": "2022/06/16"
+                },
                 {
                     "title": "#111 保護者の権限",
                     "link": "https://twitter.com/pj_sekai/status/1534007241493434368",
@@ -5479,6 +5502,17 @@
         {
             "id": "wonder_channel",
             "content": [
+                {
+                    "title": "#21",
+                    "link": "https://www.youtube.com/watch?v=1Fa6dFPQAco",
+                    "characters": [
+                        "nene",
+                        "rui",
+                        "saki",
+                        "an"
+                    ],
+                    "posted_date": "2022/06/24"
+                },
                 {
                     "title": "#20",
                     "link": "https://www.youtube.com/watch?v=_ueAlVJEYwU",
