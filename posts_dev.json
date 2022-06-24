@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/06/20 20:43:48",
+    "created_date": "2022/06/24 20:56:14",
     "contents": [
         {
             "id": "after_talk",
@@ -353,6 +353,16 @@
         {
             "id": "anniversary_img",
             "content": [
+                {
+                    "title": "ユーザー数1000万人",
+                    "link": "https://twitter.com/pj_sekai/status/1540294513239130113",
+                    "characters": [
+                        "miku",
+                        "ichika"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FWA2URraUAEy0X_?format=jpg&name=900x900",
+                    "posted_date": "2022/06/24"
+                },
                 {
                     "title": "1.5周年",
                     "link": "https://twitter.com/pj_sekai/status/1508821292430020617",
@@ -4296,6 +4306,15 @@
         {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#44",
+                    "link": "https://www.youtube.com/watch?v=vU3K8dv-tu0",
+                    "characters": [
+                        "mafuyu",
+                        "ena",
+                        "nene"
+                    ]
+                },
                 {
                     "title": "#43",
                     "link": "https://www.youtube.com/watch?v=3ie7WKEkyus",
