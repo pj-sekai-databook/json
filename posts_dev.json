@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/06/24 21:04:15",
+    "created_date": "2022/06/25 11:42:37",
     "contents": [
         {
             "id": "after_talk",
@@ -919,6 +919,15 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "神代類",
+                    "link": "https://twitter.com/pj_sekai/status/1539986641070301184",
+                    "characters": [
+                        "rui"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FV7VMllaAAAzGzF?format=jpg&name=900x900",
+                    "posted_date": "2022/06/24"
+                },
                 {
                     "title": "青柳冬弥",
                     "link": "https://twitter.com/pj_sekai/status/1529115013805375489",
@@ -2430,6 +2439,16 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#113 パーティーは綺麗な部屋で",
+                    "link": "https://twitter.com/pj_sekai/status/1540167840740700163",
+                    "characters": [
+                        "rui",
+                        "nene"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FV_FBHMakAATGuE?format=jpg",
+                    "posted_date": "2022/06/24"
+                },
                 {
                     "title": "#112 そばにいたい",
                     "link": "https://twitter.com/pj_sekai/status/1537268793306906625",
