@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/06/25 11:42:37",
+    "created_date": "2022/06/29 20:16:05",
     "contents": [
         {
             "id": "after_talk",
@@ -353,6 +353,19 @@
         {
             "id": "anniversary_img",
             "content": [
+                {
+                    "title": "YouTube登録者100万人",
+                    "link": "https://twitter.com/pj_sekai/status/1541618368910065664",
+                    "characters": [
+                        "miku_wonder",
+                        "nene",
+                        "tsukasa",
+                        "emu",
+                        "rui"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FWTs9diaUAAZ0Rc?format=jpg&name=900x900",
+                    "posted_date": "2022/06/28"
+                },
                 {
                     "title": "ユーザー数1000万人",
                     "link": "https://twitter.com/pj_sekai/status/1540294513239130113",
@@ -2439,6 +2452,18 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#114 メカニカル・ロマン",
+                    "link": "https://twitter.com/pj_sekai/status/1541255003230199809",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FWOW2StagAAqCzX?format=jpg",
+                    "posted_date": "2022/06/27"
+                },
                 {
                     "title": "#113 パーティーは綺麗な部屋で",
                     "link": "https://twitter.com/pj_sekai/status/1540167840740700163",
