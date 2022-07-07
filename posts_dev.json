@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/07/04 21:52:39",
+    "created_date": "2022/07/07 21:50:52",
     "contents": [
         {
             "id": "after_talk",
@@ -2452,6 +2452,16 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#115 弱点属性",
+                    "link": "https://twitter.com/pj_sekai/status/1544516896619659264",
+                    "characters": [
+                        "kanade",
+                        "minori"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FW852YiacAAuvwE?format=jpg",
+                    "posted_date": "2022/07/07"
+                },
                 {
                     "title": "#114 メカニカル・ロマン",
                     "link": "https://twitter.com/pj_sekai/status/1541255003230199809",
