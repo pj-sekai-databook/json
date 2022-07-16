@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/07/07 21:50:52",
+    "created_date": "2022/07/16 10:42:22",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "The Vivid Old Tale",
+                    "link": "https://www.youtube.com/watch?v=Xn6oxhHHSz8",
+                    "characters": [
+                        "an"
+                    ],
+                    "posted_date": "2022/07/19"
+                },
                 {
                     "title": "絶体絶命！？アイランドパニック！",
                     "link": "https://www.youtube.com/watch?v=Q8GxVOKon2s",
@@ -4860,6 +4868,17 @@
             "id": "sekai_station",
             "content": [
                 {
+                    "title": "#12",
+                    "link": "https://www.youtube.com/watch?v=FwnIDYXcGks",
+                    "characters": [
+                        "mizuki"
+                    ],
+                    "creators": [
+                        "syudou"
+                    ],
+                    "posted_date": "2022/07/15"
+                },
+                {
                     "title": "#11",
                     "link": "https://www.youtube.com/watch?v=PTxZNtV-0JQ",
                     "characters": [
@@ -5597,6 +5616,17 @@
         {
             "id": "wonder_channel",
             "content": [
+                {
+                    "title": "#22",
+                    "link": "https://www.youtube.com/watch?v=-jdzd8XyGh0",
+                    "characters": [
+                        "tsukasa",
+                        "shiho",
+                        "haruka",
+                        "ena"
+                    ],
+                    "posted_date": "2022/07/22"
+                },
                 {
                     "title": "#21",
                     "link": "https://www.youtube.com/watch?v=1Fa6dFPQAco",
