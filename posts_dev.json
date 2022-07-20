@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/07/16 10:42:22",
+    "created_date": "2022/07/20 21:07:32",
     "contents": [
         {
             "id": "after_talk",
@@ -940,6 +940,15 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "草薙寧々",
+                    "link": "https://twitter.com/pj_sekai/status/1549408734312554502",
+                    "characters": [
+                        "nene"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FYB-PGuaQAUHc_g?format=jpg&name=900x900",
+                    "posted_date": "2022/07/20"
+                },
                 {
                     "title": "神代類",
                     "link": "https://twitter.com/pj_sekai/status/1539986641070301184",
@@ -2460,6 +2469,32 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#117 わたし達のペース",
+                    "link": "https://twitter.com/pj_sekai/status/1549589922729820161",
+                    "characters": [
+                        "nene",
+                        "ichika",
+                        "minori",
+                        "emu",
+                        "kohane"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FYEvfdDaQAABzYY?format=jpg",
+                    "posted_date": "2022/07/20"
+                },
+                {
+                    "title": "#116 駆け引きとは",
+                    "link": "https://twitter.com/pj_sekai/status/1549242627731599360",
+                    "characters": [
+                        "an",
+                        "kohane",
+                        "akito",
+                        "toya",
+                        "miku_vivid"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FYACmxSaMAApFuY?format=jpg",
+                    "posted_date": "2022/07/19"
+                },
                 {
                     "title": "#115 弱点属性",
                     "link": "https://twitter.com/pj_sekai/status/1544516896619659264",
