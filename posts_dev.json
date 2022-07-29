@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/07/27 20:17:19",
+    "created_date": "2022/07/29 21:40:18",
     "contents": [
         {
             "id": "after_talk",
@@ -2486,6 +2486,18 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#119 新しい曲！",
+                    "link": "https://twitter.com/pj_sekai/status/1552851413046378496",
+                    "characters": [
+                        "saki",
+                        "ichika",
+                        "honami",
+                        "shiho"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FYzRSZkaQAAz7Wt?format=jpg",
+                    "posted_date": "2022/07/29"
+                },
                 {
                     "title": "#118 一番のプレゼント",
                     "link": "https://twitter.com/pj_sekai/status/1551764243212533761",
