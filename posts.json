@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/07/31 08:42:23",
+    "created_date": "2022/08/06 10:09:20",
     "contents": [
         {
             "id": "after_talk",
@@ -4455,6 +4455,14 @@
             "id": "night_radio",
             "content": [
                 {
+                    "title": "#47",
+                    "link": "https://www.youtube.com/watch?v=GIaDPj5QLz4",
+                    "characters": [
+                        "kanade",
+                        "mizuki"
+                    ]
+                },
+                {
                     "title": "#46",
                     "link": "https://www.youtube.com/watch?v=D254zdf1g_A",
                     "characters": [
@@ -4839,6 +4847,21 @@
             ]
         },
         {
+            "id": "pocari_illust",
+            "content": [
+                {
+                    "title": "#1",
+                    "link": "https://twitter.com/pocarisweat_jp/status/1555388120270503936",
+                    "characters": [
+                        "ichika",
+                        "saki"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FYmR81kagAAPeE0?format=jpg&name=900x900",
+                    "posted_date": "2022/08/05"
+                }
+            ]
+        },
+        {
             "id": "puchiseka",
             "content": [
                 {
@@ -4970,6 +4993,17 @@
         {
             "id": "sekai_station",
             "content": [
+                {
+                    "title": "#13",
+                    "link": "https://www.youtube.com/watch?v=bpe6wFe7OMs",
+                    "characters": [
+                        "emu"
+                    ],
+                    "creators": [
+                        "​ワンダフル☆オポチュニティ！"
+                    ],
+                    "posted_date": "2022/07/29"
+                },
                 {
                     "title": "#12",
                     "link": "https://www.youtube.com/watch?v=FwnIDYXcGks",
@@ -5105,6 +5139,19 @@
         {
             "id": "single",
             "content": [
+                {
+                    "title": "ニーゴ 3rd",
+                    "link": "https://bushiroad-music.com/musics/brmm-10581",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki",
+                        "luka"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/fc240dce-2796-43d2-bce3-4d941f932509.jpg",
+                    "posted_date": "2022/10/19"
+                },
                 {
                     "title": "ワンダショ 2nd",
                     "link": "https://bushiroad-music.com/musics/brmm-10461",
@@ -5678,6 +5725,15 @@
         {
             "id": "vivid_archive",
             "content": [
+                {
+                    "title": "#5 トキヲ・ファンカ",
+                    "link": "https://www.youtube.com/watch?v=PsMS8MqpamI",
+                    "characters": [
+                        "akito",
+                        "toya"
+                    ],
+                    "posted_date": "2022/08/03"
+                },
                 {
                     "title": "#4 ジャンキーナイトタウンオーケストラ",
                     "link": "https://www.youtube.com/watch?v=qlQvtaf5E6g",
