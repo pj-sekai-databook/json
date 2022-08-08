@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/08/06 10:09:20",
+    "created_date": "2022/08/08 21:05:57",
     "contents": [
         {
             "id": "after_talk",
@@ -2486,6 +2486,18 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#120 白熱！ワクワクゲーム大会",
+                    "link": "https://twitter.com/pj_sekai/status/1556475286031437825",
+                    "characters": [
+                        "nene",
+                        "emu",
+                        "toya",
+                        "akito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FZm0ZVBaUAAV8k6?format=jpg",
+                    "posted_date": "2022/08/08"
+                },
                 {
                     "title": "#119 新しい曲！",
                     "link": "https://twitter.com/pj_sekai/status/1552851413046378496",
