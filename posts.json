@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/08/17 20:07:46",
+    "created_date": "2022/08/20 19:56:07",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "そしていま、リボンを結んで",
+                    "link": "https://www.youtube.com/watch?v=OnFTq3mvQms",
+                    "characters": [
+                        "mizuki"
+                    ],
+                    "posted_date": "2022/08/29"
+                },
                 {
                     "title": "青空の先、輝きを追いかけて",
                     "link": "https://www.youtube.com/watch?v=7gxYgk11i_8",
@@ -2504,6 +2512,18 @@
             "id": "four_frame",
             "content": [
                 {
+                    "title": "#122 大成功をもう一度",
+                    "link": "https://twitter.com/pj_sekai/status/1560101232270020608",
+                    "characters": [
+                        "airi",
+                        "minori",
+                        "haruka",
+                        "shizuku"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FaaXKphacAE5ghk?format=jpg",
+                    "posted_date": "2022/08/18"
+                },
+                {
                     "title": "#121 クラスメイトと一緒に",
                     "link": "https://twitter.com/pj_sekai/status/1557562453130625029",
                     "characters": [
@@ -4346,6 +4366,15 @@
             "id": "more_live",
             "content": [
                 {
+                    "title": "#3",
+                    "link": "https://www.youtube.com/watch?v=pYwBgstoFmY",
+                    "characters": [
+                        "haruka",
+                        "shizuku"
+                    ],
+                    "posted_date": "2022/08/25"
+                },
+                {
                     "title": "#2",
                     "link": "https://www.youtube.com/watch?v=w4QFProclrg",
                     "characters": [
@@ -4494,6 +4523,15 @@
         {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#48",
+                    "link": "https://www.youtube.com/watch?v=LgjT4jVnFRI",
+                    "characters": [
+                        "mafuyu",
+                        "mizuki",
+                        "saki"
+                    ]
+                },
                 {
                     "title": "#47",
                     "link": "https://www.youtube.com/watch?v=GIaDPj5QLz4",
@@ -4889,6 +4927,17 @@
         {
             "id": "pocari_illust",
             "content": [
+                {
+                    "title": "#4",
+                    "link": "https://twitter.com/pocarisweat_jp/status/1560823945997144064",
+                    "characters": [
+                        "ichika",
+                        "honami",
+                        "shiho"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FZxZTcQUcAAXrmh?format=jpg&name=900x900",
+                    "posted_date": "2022/08/20"
+                },
                 {
                     "title": "#3",
                     "link": "https://twitter.com/pocarisweat_jp/status/1559087503629438976",
@@ -5510,6 +5559,38 @@
         {
             "id": "summer_memory_photo_2022",
             "content": [
+                {
+                    "title": "11日目",
+                    "link": "https://twitter.com/pj_sekai/status/1560839040600903690",
+                    "characters": [
+                        "akito",
+                        "toya",
+                        "rin",
+                        "len"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FakrCqdaAAAumTC?format=jpg&name=900x900",
+                    "posted_date": "2022/08/20"
+                },
+                {
+                    "title": "10日目",
+                    "link": "https://twitter.com/pj_sekai/status/1560476650181038080",
+                    "characters": [
+                        "haruka",
+                        "an"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fafc7uCaAAAlyBA?format=jpg&name=900x900",
+                    "posted_date": "2022/08/19"
+                },
+                {
+                    "title": "9日目",
+                    "link": "https://twitter.com/pj_sekai/status/1560114262042824704",
+                    "characters": [
+                        "saki",
+                        "honami"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FaagQjWacAA6fjS?format=jpg&name=900x900",
+                    "posted_date": "2022/08/18"
+                },
                 {
                     "title": "8日目",
                     "link": "https://twitter.com/pj_sekai/status/1559751874974076928",
