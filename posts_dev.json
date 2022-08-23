@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/08/20 19:56:07",
+    "created_date": "2022/08/23 20:34:12",
     "contents": [
         {
             "id": "after_talk",
@@ -5560,6 +5560,39 @@
             "id": "summer_memory_photo_2022",
             "content": [
                 {
+                    "title": "14日目",
+                    "link": "https://twitter.com/pj_sekai/status/1561926201127702533",
+                    "characters": [
+                        "ichika",
+                        "miku_leo"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fa0GcHOaMAYX7Gj?format=jpg&name=900x900",
+                    "posted_date": "2022/08/23"
+                },
+                {
+                    "title": "13日目",
+                    "link": "https://twitter.com/pj_sekai/status/1561563814834843648",
+                    "characters": [
+                        "mizuki",
+                        "luka",
+                        "meiko",
+                        "kanade"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FavFtRCaIAAWiRF?format=jpg&name=900x900",
+                    "posted_date": "2022/08/22"
+                },
+                {
+                    "title": "12日目",
+                    "link": "https://twitter.com/pj_sekai/status/1561201430060359680",
+                    "characters": [
+                        "tsukasa",
+                        "rui",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fako2qOakAAYXGn?format=jpg&name=900x900",
+                    "posted_date": "2022/08/21"
+                },
+                {
                     "title": "11日目",
                     "link": "https://twitter.com/pj_sekai/status/1560839040600903690",
                     "characters": [
@@ -6031,6 +6064,17 @@
         {
             "id": "wonder_channel",
             "content": [
+                {
+                    "title": "#23",
+                    "link": "https://www.youtube.com/watch?v=-rgIFfCexlI",
+                    "characters": [
+                        "emu",
+                        "rui",
+                        "shiho",
+                        "kohane"
+                    ],
+                    "posted_date": "2022/08/30"
+                },
                 {
                     "title": "#22",
                     "link": "https://www.youtube.com/watch?v=-jdzd8XyGh0",
