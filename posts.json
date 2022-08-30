@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/08/23 20:34:12",
+    "created_date": "2022/08/30 19:00:56",
     "contents": [
         {
             "id": "after_talk",
@@ -964,6 +964,15 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "暁山瑞希",
+                    "link": "https://twitter.com/pj_sekai/status/1563179475570868227",
+                    "characters": [
+                        "mizuki"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FbFYiNRaQAAse-q?format=jpg&name=900x900",
+                    "posted_date": "2022/08/27"
+                },
                 {
                     "title": "星乃一歌",
                     "link": "https://twitter.com/pj_sekai/status/1557381266634334210",
@@ -2511,6 +2520,34 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#124 きょうだいの近さ",
+                    "link": "https://twitter.com/pj_sekai/status/1564085562373332993",
+                    "characters": [
+                        "mizuki",
+                        "ena",
+                        "miku_night",
+                        "luka",
+                        "akito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FbS_ZCIaUAAXzzu?format=jpg",
+                    "posted_date": "2022/08/29"
+                },
+                {
+                    "title": "#123 腐れ縁な絆",
+                    "link": "https://twitter.com/pj_sekai/status/1563360662675341314",
+                    "characters": [
+                        "mizuki",
+                        "rui",
+                        "an",
+                        "tsukasa",
+                        "akito",
+                        "toya",
+                        "kohane"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FbFhAYpagAEoo5G?format=jpg",
+                    "posted_date": "2022/08/27"
+                },
                 {
                     "title": "#122 大成功をもう一度",
                     "link": "https://twitter.com/pj_sekai/status/1560101232270020608",
@@ -4928,6 +4965,18 @@
             "id": "pocari_illust",
             "content": [
                 {
+                    "title": "#5",
+                    "link": "https://twitter.com/pocarisweat_jp/status/1562635885966934017",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FZxZfEoVQAEs77M?format=jpg&name=900x900",
+                    "posted_date": "2022/08/25"
+                },
+                {
                     "title": "#4",
                     "link": "https://twitter.com/pocarisweat_jp/status/1560823945997144064",
                     "characters": [
@@ -5559,6 +5608,16 @@
         {
             "id": "summer_memory_photo_2022",
             "content": [
+                {
+                    "title": "15日目",
+                    "link": "https://twitter.com/pj_sekai/status/1562288593179054081",
+                    "characters": [
+                        "airi",
+                        "ena"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fa5SyKYagAQ9DXc?format=jpg&name=900x900",
+                    "posted_date": "2022/08/24"
+                },
                 {
                     "title": "14日目",
                     "link": "https://twitter.com/pj_sekai/status/1561926201127702533",
