@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/08/30 19:00:56",
+    "created_date": "2022/09/08 20:18:53",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "Don't lose faith!",
+                    "link": "https://www.youtube.com/watch?v=2mQr3grqQsg",
+                    "characters": [
+                        "shiho"
+                    ],
+                    "posted_date": "2022/09/07"
+                },
                 {
                     "title": "そしていま、リボンを結んで",
                     "link": "https://www.youtube.com/watch?v=OnFTq3mvQms",
@@ -964,6 +972,15 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "初音ミク",
+                    "link": "https://twitter.com/pj_sekai/status/1564629022369165316",
+                    "characters": [
+                        "miku_vivid"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FbaJAXOaIAA-kf8?format=jpg&name=900x900",
+                    "posted_date": "2022/08/31"
+                },
                 {
                     "title": "暁山瑞希",
                     "link": "https://twitter.com/pj_sekai/status/1563179475570868227",
@@ -2520,6 +2537,40 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#126 個別練習",
+                    "link": "https://twitter.com/pj_sekai/status/1567347056372490247",
+                    "characters": [
+                        "shiho",
+                        "saki",
+                        "ichika",
+                        "honami",
+                        "miku_leo",
+                        "luka",
+                        "rin",
+                        "len",
+                        "meiko",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcBUL3NaMAAht5y?format=jpg",
+                    "posted_date": "2022/09/07"
+                },
+                {
+                    "title": "#125 灯火に照らされて",
+                    "link": "https://twitter.com/pj_sekai/status/1564810273504231425",
+                    "characters": [
+                        "miku_night",
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki",
+                        "rin",
+                        "meiko",
+                        "luka"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FbdSWzGaIAAwA1H?format=jpg",
+                    "posted_date": "2022/08/31"
+                },
                 {
                     "title": "#124 きょうだいの近さ",
                     "link": "https://twitter.com/pj_sekai/status/1564085562373332993",
@@ -4192,6 +4243,19 @@
             "id": "leo_everyday",
             "content": [
                 {
+                    "title": "#14",
+                    "link": "https://twitter.com/pj_sekai/status/1566259765461655552",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho",
+                        "miku"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FbpGUO6agAEz5Zn?format=jpg&name=large",
+                    "posted_date": "2022/09/04"
+                },
+                {
                     "title": "#13",
                     "link": "https://twitter.com/pj_sekai/status/1553228897285591040",
                     "characters": [
@@ -4560,6 +4624,14 @@
         {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#49",
+                    "link": "https://www.youtube.com/watch?v=m2-10zAsWGw",
+                    "characters": [
+                        "mafuyu",
+                        "mizuki"
+                    ]
+                },
                 {
                     "title": "#48",
                     "link": "https://www.youtube.com/watch?v=LgjT4jVnFRI",
@@ -5153,6 +5225,28 @@
             "id": "sekai_station",
             "content": [
                 {
+                    "title": "#16",
+                    "link": "https://www.youtube.com/watch?v=d_MHNo3t4FM",
+                    "characters": [
+                        "kohane"
+                    ],
+                    "creators": [
+                        "雄之助"
+                    ],
+                    "posted_date": "2022/09/09"
+                },
+                {
+                    "title": "#15",
+                    "link": "https://www.youtube.com/watch?v=OlMJE253EG0",
+                    "characters": [
+                        "kohane"
+                    ],
+                    "creators": [
+                        "雄之助"
+                    ],
+                    "posted_date": "2022/08/26"
+                },
+                {
                     "title": "#14",
                     "link": "https://www.youtube.com/watch?v=F3qr-bSKTcQ",
                     "characters": [
@@ -5309,6 +5403,19 @@
         {
             "id": "single",
             "content": [
+                {
+                    "title": "レオニ 3rd",
+                    "link": "https://bushiroad-music.com/musics/brmm-10582",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho",
+                        "miku_leo"
+                    ],
+                    "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bd097873-b21d-4d93-90ca-51ed0bf61cb4.jpg",
+                    "posted_date": "2022/11/16"
+                },
                 {
                     "title": "ニーゴ 3rd",
                     "link": "https://bushiroad-music.com/musics/brmm-10581",
