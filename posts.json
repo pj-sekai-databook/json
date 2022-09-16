@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/09/08 20:18:53",
+    "created_date": "2022/09/17 07:45:43",
     "contents": [
         {
             "id": "after_talk",
@@ -972,6 +972,15 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "鳳えむ",
+                    "link": "https://twitter.com/pj_sekai/status/1567890644684705794",
+                    "characters": [
+                        "emu"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcIbLskaQAIupy3?format=jpg&name=900x900",
+                    "posted_date": "2022/09/09"
+                },
                 {
                     "title": "初音ミク",
                     "link": "https://twitter.com/pj_sekai/status/1564629022369165316",
@@ -1951,6 +1960,101 @@
             ]
         },
         {
+            "id": "countdown_2nd_img",
+            "content": [
+                {
+                    "title": "あと13日",
+                    "link": "https://twitter.com/pj_sekai/status/1570789604294152192",
+                    "characters": [
+                        "rui",
+                        "rin"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcxwNFKaEAIKSEr?format=jpg&name=900x900",
+                    "posted_date": "2022/09/17"
+                },
+                {
+                    "title": "あと14日",
+                    "link": "https://twitter.com/pj_sekai/status/1570427343662993408",
+                    "characters": [
+                        "toya",
+                        "luka"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcsBX-oaUAMiVDF?format=jpg&name=900x900",
+                    "posted_date": "2022/09/16"
+                },
+                {
+                    "title": "あと15日",
+                    "link": "https://twitter.com/pj_sekai/status/1570064958947266561",
+                    "characters": [
+                        "minori",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fcm5IsyacAE3NgD?format=jpg&name=900x900",
+                    "posted_date": "2022/09/15"
+                },
+                {
+                    "title": "あと16日",
+                    "link": "https://twitter.com/pj_sekai/status/1569702569676603393",
+                    "characters": [
+                        "shiho",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FchsUaFaAAAz6u5?format=jpg&name=900x900",
+                    "posted_date": "2022/09/14"
+                },
+                {
+                    "title": "あと17日",
+                    "link": "https://twitter.com/pj_sekai/status/1569340069021876228",
+                    "characters": [
+                        "mizuki",
+                        "meiko"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FccbSJIaIAAuNJ5?format=jpg&name=900x900",
+                    "posted_date": "2022/09/13"
+                },
+                {
+                    "title": "あと18日",
+                    "link": "https://twitter.com/pj_sekai/status/1568977665582923776",
+                    "characters": [
+                        "emu",
+                        "meiko"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcM_iM8aIAIOY1g?format=jpg&name=900x900",
+                    "posted_date": "2022/09/12"
+                },
+                {
+                    "title": "あと19日",
+                    "link": "https://twitter.com/pj_sekai/status/1568615286554738689",
+                    "characters": [
+                        "an",
+                        "miku_vivid"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcM-AFtakAM_twl?format=jpg&name=900x900",
+                    "posted_date": "2022/09/11"
+                },
+                {
+                    "title": "あと20日",
+                    "link": "https://twitter.com/pj_sekai/status/1568252890589761536",
+                    "characters": [
+                        "shizuku",
+                        "miku_more"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcM8_i5aUAIuoeM?format=jpg&name=900x900",
+                    "posted_date": "2022/09/10"
+                },
+                {
+                    "title": "あと21日",
+                    "link": "https://twitter.com/pj_sekai/status/1567898051322191877",
+                    "characters": [
+                        "honami",
+                        "len"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcIe579akAEGUHS?format=jpg&name=900x900",
+                    "posted_date": "2022/09/09"
+                }
+            ]
+        },
+        {
             "id": "countdown_release_img",
             "content": [
                 {
@@ -2537,6 +2641,15 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#127 特別な日は夜までも",
+                    "link": "https://twitter.com/pj_sekai/status/1568071821320151040",
+                    "characters": [
+                        "emu"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FcLg-8kaAAAxtcg?format=jpg",
+                    "posted_date": "2022/09/09"
+                },
                 {
                     "title": "#126 個別練習",
                     "link": "https://twitter.com/pj_sekai/status/1567347056372490247",
