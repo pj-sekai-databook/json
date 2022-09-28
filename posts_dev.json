@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/09/23 17:33:40",
+    "created_date": "2022/09/29 06:50:03",
     "contents": [
         {
             "id": "after_talk",
@@ -395,6 +395,201 @@
                     ],
                     "img": "https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/ba2ab7ef-b533-4977-a1b7-8b79226e5962.jpg",
                     "posted_date": "2022/02/02"
+                }
+            ]
+        },
+        {
+            "id": "anniversary_2nd_live",
+            "content": [
+                {
+                    "title": "2ndアニバーサリー生放送",
+                    "link": "https://www.youtube.com/watch?v=lgyE4Sr95zg",
+                    "characters": [
+                        "shizuku",
+                        "kohane",
+                        "tsukasa",
+                        "mizuki"
+                    ],
+                    "posted_date": "2022/09/29"
+                },
+                {
+                    "title": "振り返り生放送(ビビバス)",
+                    "link": "https://www.youtube.com/watch?v=RVvInO1LuT0",
+                    "characters": [
+                        "kohane",
+                        "an",
+                        "akito"
+                    ],
+                    "posted_date": "2022/09/29"
+                },
+                {
+                    "title": "振り返り生放送(ワンダショ)",
+                    "link": "https://www.youtube.com/watch?v=-ZjNXtltJ50",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui"
+                    ],
+                    "posted_date": "2022/09/28"
+                },
+                {
+                    "title": "振り返り生放送(レオニ)",
+                    "link": "https://www.youtube.com/watch?v=valdEc5d21g",
+                    "characters": [
+                        "ichika",
+                        "shiho"
+                    ],
+                    "posted_date": "2022/09/27"
+                },
+                {
+                    "title": "振り返り生放送(モモジャン)",
+                    "link": "https://www.youtube.com/watch?v=UPES3Yv9n7Y",
+                    "characters": [
+                        "minori",
+                        "haruka",
+                        "airi",
+                        "shizuku"
+                    ],
+                    "posted_date": "2022/09/26"
+                },
+                {
+                    "title": "振り返り生放送(ニーゴ)",
+                    "link": "https://www.youtube.com/watch?v=oM4s8YJ_PWg",
+                    "characters": [
+                        "mafuyu",
+                        "ena",
+                        "mizuki"
+                    ],
+                    "posted_date": "2022/09/25"
+                }
+            ]
+        },
+        {
+            "id": "anniversary_2nd_movie",
+            "content": [
+                {
+                    "title": "振り返りムービー(ワンダショ)",
+                    "link": "https://www.youtube.com/watch?v=g_ZtqhSU0FQ",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui"
+                    ],
+                    "creators": null,
+                    "posted_date": "2022/09/28"
+                },
+                {
+                    "title": "振り返りムービー(レオニ)",
+                    "link": "https://www.youtube.com/watch?v=fJpAg6U46zU",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho"
+                    ],
+                    "creators": null,
+                    "posted_date": "2022/09/27"
+                },
+                {
+                    "title": "振り返りムービー(モモジャン)",
+                    "link": "https://www.youtube.com/watch?v=YnHuLO1rU0o",
+                    "characters": [
+                        "minori",
+                        "haruka",
+                        "airi",
+                        "shizuku"
+                    ],
+                    "creators": null,
+                    "posted_date": "2022/09/26"
+                },
+                {
+                    "title": "振り返りムービー(ニーゴ)",
+                    "link": "https://www.youtube.com/watch?v=w1k3Jb3fpQo",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki"
+                    ],
+                    "creators": null,
+                    "posted_date": "2022/09/25"
+                },
+                {
+                    "title": "ピアノメドレー(ビビバス)",
+                    "link": "https://www.youtube.com/watch?v=JIZEjvCILQE",
+                    "characters": [],
+                    "creators": [
+                        "まらしぃ"
+                    ],
+                    "posted_date": "2022/09/29"
+                },
+                {
+                    "title": "ピアノメドレー(ワンダショ)",
+                    "link": "https://www.youtube.com/watch?v=g2YtHLHhhXg",
+                    "characters": [],
+                    "creators": [
+                        "まらしぃ"
+                    ],
+                    "posted_date": "2022/09/28"
+                },
+                {
+                    "title": "ピアノメドレー(レオニ)",
+                    "link": "https://www.youtube.com/watch?v=X369a6I1OYs",
+                    "characters": [],
+                    "creators": [
+                        "まらしぃ"
+                    ],
+                    "posted_date": "2022/09/27"
+                },
+                {
+                    "title": "ピアノメドレー(モモジャン)",
+                    "link": "https://www.youtube.com/watch?v=0hHTUx2eOKw",
+                    "characters": [],
+                    "creators": [
+                        "まらしぃ"
+                    ],
+                    "posted_date": "2022/09/26"
+                },
+                {
+                    "title": "ピアノメドレー(ニーゴ)",
+                    "link": "https://www.youtube.com/watch?v=YyqTc2WBtik",
+                    "characters": [],
+                    "creators": [
+                        "まらしぃ"
+                    ],
+                    "posted_date": "2022/09/25"
+                },
+                {
+                    "title": "スペシャルインタビュー(sasakure.UK)",
+                    "link": "https://www.youtube.com/watch?v=smXCDmMfAJ0",
+                    "characters": [],
+                    "creators": [
+                        "sasakure.UK"
+                    ],
+                    "posted_date": "2022/09/28"
+                },
+                {
+                    "title": "スペシャルインタビュー(雪城眞尋)",
+                    "link": "https://www.youtube.com/watch?v=B-10sobQV_w",
+                    "characters": [],
+                    "creators": null,
+                    "posted_date": "2022/09/27"
+                },
+                {
+                    "title": "スペシャルインタビュー(社築)",
+                    "link": "https://www.youtube.com/watch?v=y0wRbRMkURs",
+                    "characters": [],
+                    "creators": null,
+                    "posted_date": "2022/09/26"
+                },
+                {
+                    "title": "スペシャルインタビュー(松丸亮吾)",
+                    "link": "https://www.youtube.com/watch?v=TRf7fL_SqHM",
+                    "characters": [],
+                    "creators": null,
+                    "posted_date": "2022/09/25"
                 }
             ]
         },
@@ -1971,6 +2166,60 @@
             "id": "countdown_2nd_img",
             "content": [
                 {
+                    "title": "あと1日",
+                    "link": "https://twitter.com/pj_sekai/status/1575138267854274561",
+                    "characters": [
+                        "miku_night",
+                        "rin",
+                        "len",
+                        "luka",
+                        "meiko",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fduz1PFaEAACRJz?format=jpg&name=900x900",
+                    "posted_date": "2022/09/29"
+                },
+                {
+                    "title": "あと3日",
+                    "link": "https://twitter.com/pj_sekai/status/1574413493167706114",
+                    "characters": [
+                        "nene",
+                        "meiko"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FdkxiHMaEAEcsCt?format=jpg&name=900x900",
+                    "posted_date": "2022/09/27"
+                },
+                {
+                    "title": "あと4日",
+                    "link": "https://twitter.com/pj_sekai/status/1574051101904609287",
+                    "characters": [
+                        "akito",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fde7VQ2aEAERrvd?format=jpg&name=900x900",
+                    "posted_date": "2022/09/26"
+                },
+                {
+                    "title": "あと5日",
+                    "link": "https://twitter.com/pj_sekai/status/1573688708460675076",
+                    "characters": [
+                        "airi",
+                        "meiko"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FdbBzONaEAAnIcT?format=jpg&name=900x900",
+                    "posted_date": "2022/09/25"
+                },
+                {
+                    "title": "あと6日",
+                    "link": "https://twitter.com/pj_sekai/status/1573326335912574978",
+                    "characters": [
+                        "saki",
+                        "len"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FdV58o5acAIkbtS?format=jpg&name=900x900",
+                    "posted_date": "2022/09/24"
+                },
+                {
                     "title": "あと7日",
                     "link": "https://twitter.com/pj_sekai/status/1572963932993634310",
                     "characters": [
@@ -2709,6 +2958,15 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#129 礼儀大事に",
+                    "link": "https://twitter.com/pj_sekai/status/1574957068611510272",
+                    "characters": [
+                        "toya"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FdtePg5aMAEHl0A?format=jpg",
+                    "posted_date": "2022/09/28"
+                },
                 {
                     "title": "#128 シンパシー",
                     "link": "https://twitter.com/pj_sekai/status/1571333193176948736",
