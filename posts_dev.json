@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/10/09 19:31:39",
+    "created_date": "2022/10/27 05:43:33",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "拝啓、あの頃のわたしへ",
+                    "link": "https://www.youtube.com/watch?v=rPZtwxhPnpA",
+                    "characters": [
+                        "minori"
+                    ],
+                    "posted_date": "2022/10/19"
+                },
                 {
                     "title": "Walk on and on",
                     "link": "https://www.youtube.com/watch?v=lUzBD87UfG4",
@@ -1194,6 +1202,15 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "望月穂波",
+                    "link": "https://twitter.com/pj_sekai/status/1585285120348520448",
+                    "characters": [
+                        "honami"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Ff_t3_maMAIqnar?format=jpg&name=900x900",
+                    "posted_date": "2022/10/27"
+                },
                 {
                     "title": "桐谷遥",
                     "link": "https://twitter.com/pj_sekai/status/1577312593248538626",
@@ -3065,6 +3082,38 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#132 初のワンマンに向かって…！",
+                    "link": "https://twitter.com/pj_sekai/status/1582567313651662848",
+                    "characters": [
+                        "minori",
+                        "haruka",
+                        "airi",
+                        "shizuku",
+                        "miku_more",
+                        "rin",
+                        "meiko",
+                        "luka",
+                        "len",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FfZoeVpWYAIhWyi?format=jpg",
+                    "posted_date": "2022/10/19"
+                },
+                {
+                    "title": "#131 スーパーボランティアの秘訣",
+                    "link": "https://twitter.com/pj_sekai/status/1579320849924255744",
+                    "characters": [
+                        "mafuyu",
+                        "shizuku",
+                        "airi",
+                        "kanade",
+                        "ena",
+                        "mizuki"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FerfLYyaYAICnDv?format=jpg",
+                    "posted_date": "2022/10/10"
+                },
                 {
                     "title": "#130 可愛いものに魅せられて",
                     "link": "https://twitter.com/pj_sekai/status/1577493785700859906",
@@ -5193,6 +5242,15 @@
             "id": "night_radio",
             "content": [
                 {
+                    "title": "#52",
+                    "link": "https://www.youtube.com/watch?v=n_-BAwG9bF8",
+                    "characters": [
+                        "ena",
+                        "mizuki",
+                        "haruka"
+                    ]
+                },
+                {
                     "title": "#51",
                     "link": "https://www.youtube.com/watch?v=elWV7FoCjhg",
                     "characters": [
@@ -5809,6 +5867,17 @@
         {
             "id": "sekai_station",
             "content": [
+                {
+                    "title": "#19",
+                    "link": "https://www.youtube.com/watch?v=UHQHt6CHn40",
+                    "characters": [
+                        "mafuyu"
+                    ],
+                    "creators": [
+                        "かいりきベア"
+                    ],
+                    "posted_date": "2022/10/21"
+                },
                 {
                     "title": "#18",
                     "link": "https://www.youtube.com/watch?v=sUKOAl_73JA",
@@ -6837,6 +6906,23 @@
         {
             "id": "wonder_channel",
             "content": [
+                {
+                    "title": "#25 第2部",
+                    "link": "https://www.youtube.com/watch?v=kMqhaeUwJhE",
+                    "characters": [],
+                    "posted_date": "2022/10/27"
+                },
+                {
+                    "title": "#25 第1部",
+                    "link": "https://www.youtube.com/watch?v=4JuXKcwmcFg",
+                    "characters": [
+                        "shizuku",
+                        "akito",
+                        "saki",
+                        "mafuyu"
+                    ],
+                    "posted_date": "2022/10/26"
+                },
                 {
                     "title": "#24 2nd Anniversary 感謝祭",
                     "link": "https://www.youtube.com/watch?v=RTcHYtnZHls",
