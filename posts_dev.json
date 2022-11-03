@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/10/27 05:45:54",
+    "created_date": "2022/11/03 09:33:27",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "カーテンコールに惜別を",
+                    "link": "https://www.youtube.com/watch?v=4OKXUHU1_ac",
+                    "characters": [
+                        "rui"
+                    ],
+                    "posted_date": "2022/11/05"
+                },
                 {
                     "title": "拝啓、あの頃のわたしへ",
                     "link": "https://www.youtube.com/watch?v=rPZtwxhPnpA",
@@ -3083,6 +3091,32 @@
             "id": "four_frame",
             "content": [
                 {
+                    "title": "#134 曲者ふたり",
+                    "link": "https://twitter.com/pj_sekai/status/1586191090570256384",
+                    "characters": [
+                        "rui",
+                        "tsukasa",
+                        "nene",
+                        "emu"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FgJn5sbaEAA0XXQ?format=jpg",
+                    "posted_date": "2022/10/29"
+                },
+                {
+                    "title": "#133 ほんわかにこにこ美化委員",
+                    "link": "https://twitter.com/pj_sekai/status/1585466711406710784",
+                    "characters": [
+                        "honami",
+                        "shizuku",
+                        "ichika",
+                        "saki",
+                        "shiho",
+                        "airi"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FgC1fJoaYAAeit8?format=jpg",
+                    "posted_date": "2022/10/27"
+                },
+                {
                     "title": "#132 初のワンマンに向かって…！",
                     "link": "https://twitter.com/pj_sekai/status/1582567313651662848",
                     "characters": [
@@ -5241,6 +5275,14 @@
         {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#53",
+                    "link": "https://www.youtube.com/watch?v=Hdr9GPG7qQU",
+                    "characters": [
+                        "ena",
+                        "mizuki"
+                    ]
+                },
                 {
                     "title": "#52",
                     "link": "https://www.youtube.com/watch?v=n_-BAwG9bF8",
