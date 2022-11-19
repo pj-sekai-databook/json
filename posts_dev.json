@@ -1,10 +1,18 @@
 {
     "version": 2,
-    "created_date": "2022/11/09 20:57:47",
+    "created_date": "2022/11/19 10:49:45",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "Echo my melody",
+                    "link": "https://www.youtube.com/watch?v=HLMidFD9VG4",
+                    "characters": [
+                        "ichika"
+                    ],
+                    "posted_date": "2022/11/18"
+                },
                 {
                     "title": "カーテンコールに惜別を",
                     "link": "https://www.youtube.com/watch?v=4OKXUHU1_ac",
@@ -1211,6 +1219,15 @@
             "id": "birthday_img",
             "content": [
                 {
+                    "title": "東雲彰人",
+                    "link": "https://twitter.com/pj_sekai/status/1591083336742719490",
+                    "characters": [
+                        "akito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FhRzy-waMAANYNx?format=jpg&name=900x900",
+                    "posted_date": "2022/11/12"
+                },
+                {
                     "title": "MEIKO",
                     "link": "https://twitter.com/pj_sekai/status/1588546619712094209",
                     "characters": [
@@ -1775,6 +1792,14 @@
         {
             "id": "championship",
             "content": [
+                {
+                    "title": "第4回大会(2022 Autumn)",
+                    "link": "https://www.youtube.com/watch?v=3yYixwkgtdc",
+                    "characters": [
+                        "shizuku"
+                    ],
+                    "posted_date": "2022/11/26"
+                },
                 {
                     "title": "第3回大会(2022 Spring)",
                     "link": "https://www.youtube.com/watch?v=aq8-3XKKI0c",
@@ -3099,6 +3124,30 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#138 あの子の歌声",
+                    "link": "https://twitter.com/pj_sekai/status/1593438850981978113",
+                    "characters": [
+                        "ichika",
+                        "kanade",
+                        "miku_leo"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fhz7bjIaEAAMHTG?format=jpg",
+                    "posted_date": "2022/11/18"
+                },
+                {
+                    "title": "#137 求道者たち",
+                    "link": "https://twitter.com/pj_sekai/status/1591264520759963648",
+                    "characters": [
+                        "akito",
+                        "tsukasa",
+                        "rui",
+                        "emu",
+                        "nene"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FhR0f_9aEAEi9yx?format=jpg",
+                    "posted_date": "2022/11/12"
+                },
                 {
                     "title": "#136 杏ちゃん・インザ・ナイトメア",
                     "link": "https://twitter.com/pj_sekai/status/1590177359482609664",
@@ -5312,6 +5361,14 @@
             "id": "night_radio",
             "content": [
                 {
+                    "title": "#54",
+                    "link": "https://www.youtube.com/watch?v=12F9ZfmRfmE",
+                    "characters": [
+                        "mafuyu",
+                        "mizuki"
+                    ]
+                },
+                {
                     "title": "#53",
                     "link": "https://www.youtube.com/watch?v=Hdr9GPG7qQU",
                     "characters": [
@@ -5945,6 +6002,28 @@
         {
             "id": "sekai_station",
             "content": [
+                {
+                    "title": "#21",
+                    "link": "https://www.youtube.com/watch?v=_EDpTi-Isec",
+                    "characters": [
+                        "shizuku"
+                    ],
+                    "creators": [
+                        "40mP"
+                    ],
+                    "posted_date": "2022/11/18"
+                },
+                {
+                    "title": "#20",
+                    "link": "https://www.youtube.com/watch?v=bZgXlroFjcU",
+                    "characters": [
+                        "mafuyu"
+                    ],
+                    "creators": [
+                        "かいりきベア"
+                    ],
+                    "posted_date": "2022/11/04"
+                },
                 {
                     "title": "#19",
                     "link": "https://www.youtube.com/watch?v=UHQHt6CHn40",
@@ -6997,6 +7076,17 @@
         {
             "id": "wonder_channel",
             "content": [
+                {
+                    "title": "#26",
+                    "link": "https://www.youtube.com/watch?v=YJRODxOF7XE",
+                    "characters": [
+                        "tsukasa",
+                        "shizuku",
+                        "haruka",
+                        "akito"
+                    ],
+                    "posted_date": "2022/11/22"
+                },
                 {
                     "title": "#25 第2部",
                     "link": "https://www.youtube.com/watch?v=kMqhaeUwJhE",
