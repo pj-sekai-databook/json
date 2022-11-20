@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/11/19 10:49:45",
+    "created_date": "2022/11/20 20:31:37",
     "contents": [
         {
             "id": "after_talk",
@@ -4978,6 +4978,18 @@
         {
             "id": "leo_everyday",
             "content": [
+                {
+                    "title": "#15",
+                    "link": "https://twitter.com/pj_sekai/status/1593801242056134656",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fh2WFdOakAAeW7g?format=jpg&name=large",
+                    "posted_date": "2022/11/19"
+                },
                 {
                     "title": "#14",
                     "link": "https://twitter.com/pj_sekai/status/1566259765461655552",
