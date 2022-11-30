@@ -1,10 +1,26 @@
 {
     "version": 2,
-    "created_date": "2022/11/20 20:33:10",
+    "created_date": "2022/11/30 19:32:36",
     "contents": [
         {
             "id": "after_talk",
             "content": [
+                {
+                    "title": "あの日の夢の、彼方向こうへ",
+                    "link": "https://www.youtube.com/watch?v=7WzXMb9SyKE",
+                    "characters": [
+                        "shizuku"
+                    ],
+                    "posted_date": "2022/12/09"
+                },
+                {
+                    "title": "願いは、いつか朝をこえて",
+                    "link": "https://www.youtube.com/watch?v=FYwPFDJUqrE",
+                    "characters": [
+                        "ena"
+                    ],
+                    "posted_date": "2022/11/28"
+                },
                 {
                     "title": "Echo my melody",
                     "link": "https://www.youtube.com/watch?v=HLMidFD9VG4",
@@ -3125,6 +3141,16 @@
             "id": "four_frame",
             "content": [
                 {
+                    "title": "#139 そわそわ",
+                    "link": "https://twitter.com/pj_sekai/status/1597062729470070784",
+                    "characters": [
+                        "mafuyu",
+                        "ena"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FinNl0OaYAAcLMm?format=jpg",
+                    "posted_date": "2022/11/28"
+                },
+                {
                     "title": "#138 あの子の歌声",
                     "link": "https://twitter.com/pj_sekai/status/1593438850981978113",
                     "characters": [
@@ -5372,6 +5398,14 @@
         {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#55",
+                    "link": "https://www.youtube.com/watch?v=0D2XVq8y_aI",
+                    "characters": [
+                        "mafuyu",
+                        "mizuki"
+                    ]
+                },
                 {
                     "title": "#54",
                     "link": "https://www.youtube.com/watch?v=12F9ZfmRfmE",
