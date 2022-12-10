@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/11/30 19:32:36",
+    "created_date": "2022/12/10 13:37:07",
     "contents": [
         {
             "id": "after_talk",
@@ -9,6 +9,7 @@
                     "title": "あの日の夢の、彼方向こうへ",
                     "link": "https://www.youtube.com/watch?v=7WzXMb9SyKE",
                     "characters": [
+                        "haruka",
                         "shizuku"
                     ],
                     "posted_date": "2022/12/09"
@@ -1234,6 +1235,15 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "日野森雫",
+                    "link": "https://twitter.com/pj_sekai/status/1599780641364529152",
+                    "characters": [
+                        "shizuku"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FjNPfejakAEt0xR?format=jpg&name=900x900",
+                    "posted_date": "2022/12/06"
+                },
                 {
                     "title": "東雲彰人",
                     "link": "https://twitter.com/pj_sekai/status/1591083336742719490",
@@ -3140,6 +3150,30 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#141 トップアイドルへの道",
+                    "link": "https://twitter.com/pj_sekai/status/1601049003776528386",
+                    "characters": [
+                        "haruka",
+                        "minori",
+                        "airi",
+                        "shizuku"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FjfTaPPaMAAE_8-?format=jpg",
+                    "posted_date": "2022/12/09"
+                },
+                {
+                    "title": "#140 ゲーセンに舞い降りた天使",
+                    "link": "https://twitter.com/pj_sekai/status/1599962577618243590",
+                    "characters": [
+                        "shizuku",
+                        "airi",
+                        "ena",
+                        "mizuki"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FjQ1cIEaMAEcn-l?format=jpg",
+                    "posted_date": "2022/12/06"
+                },
                 {
                     "title": "#139 そわそわ",
                     "link": "https://twitter.com/pj_sekai/status/1597062729470070784",
@@ -5399,6 +5433,15 @@
             "id": "night_radio",
             "content": [
                 {
+                    "title": "#56",
+                    "link": "https://www.youtube.com/watch?v=renIWSsdGY0",
+                    "characters": [
+                        "mafuyu",
+                        "mizuki",
+                        "an"
+                    ]
+                },
+                {
                     "title": "#55",
                     "link": "https://www.youtube.com/watch?v=0D2XVq8y_aI",
                     "characters": [
@@ -6048,6 +6091,17 @@
         {
             "id": "sekai_station",
             "content": [
+                {
+                    "title": "#22",
+                    "link": "https://www.youtube.com/watch?v=6-2qk-niWPY",
+                    "characters": [
+                        "shizuku"
+                    ],
+                    "creators": [
+                        "40mP"
+                    ],
+                    "posted_date": "2022/12/02"
+                },
                 {
                     "title": "#21",
                     "link": "https://www.youtube.com/watch?v=_EDpTi-Isec",
@@ -7122,6 +7176,17 @@
         {
             "id": "wonder_channel",
             "content": [
+                {
+                    "title": "#27",
+                    "link": "https://www.youtube.com/watch?v=DHFIdjbQN2c",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "shiho",
+                        "an"
+                    ],
+                    "posted_date": "2022/12/16"
+                },
                 {
                     "title": "#26",
                     "link": "https://www.youtube.com/watch?v=YJRODxOF7XE",
