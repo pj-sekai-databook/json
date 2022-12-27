@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/12/10 13:37:07",
+    "created_date": "2022/12/27 21:01:00",
     "contents": [
         {
             "id": "after_talk",
@@ -657,6 +657,19 @@
             "id": "anniversary_img",
             "content": [
                 {
+                    "title": "クリスマス2022",
+                    "link": "https://twitter.com/pj_sekai/status/1606666009519202304",
+                    "characters": [
+                        "miku_vivid",
+                        "kohane",
+                        "an",
+                        "akito",
+                        "toya"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FkqPPCjakAEIGV-?format=jpg&name=900x900",
+                    "posted_date": "2022/12/25"
+                },
+                {
                     "title": "YouTube登録者100万人",
                     "link": "https://twitter.com/pj_sekai/status/1541618368910065664",
                     "characters": [
@@ -1235,6 +1248,16 @@
         {
             "id": "birthday_img",
             "content": [
+                {
+                    "title": "鏡音リン・鏡音レン",
+                    "link": "https://twitter.com/pj_sekai/status/1607390907342508034",
+                    "characters": [
+                        "rin",
+                        "len"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fk5YDvnaUAE25ah?format=jpg&name=900x900",
+                    "posted_date": "2022/12/27"
+                },
                 {
                     "title": "日野森雫",
                     "link": "https://twitter.com/pj_sekai/status/1599780641364529152",
@@ -2372,6 +2395,16 @@
                     "posted_date": "2022/09/29"
                 },
                 {
+                    "title": "あと2日",
+                    "link": "https://twitter.com/pj_sekai/status/1607317872409448449",
+                    "characters": [
+                        "kanade",
+                        "miku_night"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fk5I06saUAMA973?format=jpg&name=900x900",
+                    "posted_date": "2022/12/26"
+                },
+                {
                     "title": "あと3日",
                     "link": "https://twitter.com/pj_sekai/status/1574413493167706114",
                     "characters": [
@@ -3150,6 +3183,33 @@
         {
             "id": "four_frame",
             "content": [
+                {
+                    "title": "#143 わたし/オレ達のライバルは",
+                    "link": "https://twitter.com/pj_sekai/status/1607571982924632064",
+                    "characters": [
+                        "rin",
+                        "len",
+                        "meiko",
+                        "kohane",
+                        "an",
+                        "akito",
+                        "toya"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fk86xomaUAAjRLI?format=jpg",
+                    "posted_date": "2022/12/27"
+                },
+                {
+                    "title": "#142 追憶の聖地",
+                    "link": "https://twitter.com/pj_sekai/status/1604702350698221570",
+                    "characters": [
+                        "akito",
+                        "kohane",
+                        "an",
+                        "toya"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FkUMK6JacAE9kho?format=jpg",
+                    "posted_date": "2022/12/19"
+                },
                 {
                     "title": "#141 トップアイドルへの道",
                     "link": "https://twitter.com/pj_sekai/status/1601049003776528386",
@@ -5433,6 +5493,14 @@
             "id": "night_radio",
             "content": [
                 {
+                    "title": "#57",
+                    "link": "https://www.youtube.com/watch?v=yE55bOWUCYk",
+                    "characters": [
+                        "mafuyu",
+                        "mizuki"
+                    ]
+                },
+                {
                     "title": "#56",
                     "link": "https://www.youtube.com/watch?v=renIWSsdGY0",
                     "characters": [
@@ -6091,6 +6159,15 @@
         {
             "id": "sekai_station",
             "content": [
+                {
+                    "title": "#23",
+                    "link": "https://www.youtube.com/watch?v=AVZi0SRabGk",
+                    "characters": [],
+                    "creators": [
+                        "すりぃ"
+                    ],
+                    "posted_date": "2022/12/16"
+                },
                 {
                     "title": "#22",
                     "link": "https://www.youtube.com/watch?v=6-2qk-niWPY",
