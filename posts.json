@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "created_date": "2022/12/27 21:01:00",
+    "created_date": "2023/01/07 14:18:34",
     "contents": [
         {
             "id": "after_talk",
@@ -656,6 +656,17 @@
         {
             "id": "anniversary_img",
             "content": [
+                {
+                    "title": "正月2023",
+                    "link": "https://twitter.com/pj_sekai/status/1609202739803824131",
+                    "characters": [
+                        "rin",
+                        "honami",
+                        "kanade"
+                    ],
+                    "img": "https://pbs.twimg.com/media/FlSq4v6agAAfati?format=jpg&name=900x900",
+                    "posted_date": "2023/01/01"
+                },
                 {
                     "title": "クリスマス2022",
                     "link": "https://twitter.com/pj_sekai/status/1606666009519202304",
@@ -3184,6 +3195,30 @@
             "id": "four_frame",
             "content": [
                 {
+                    "title": "#145 調子のりすぎた？",
+                    "link": "https://twitter.com/pj_sekai/status/1611558248561131521",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Flx02QRaEAYp-4z?format=jpg",
+                    "posted_date": "2023/01/07"
+                },
+                {
+                    "title": "#144 すごいわ！朝比奈さん",
+                    "link": "https://twitter.com/pj_sekai/status/1608296755711381506",
+                    "characters": [
+                        "shizuku",
+                        "mafuyu",
+                        "miku_more",
+                        "kaito"
+                    ],
+                    "img": "https://pbs.twimg.com/media/Fk-n4CqaAAA5yXS?format=jpg",
+                    "posted_date": "2022/12/29"
+                },
+                {
                     "title": "#143 わたし/オレ達のライバルは",
                     "link": "https://twitter.com/pj_sekai/status/1607571982924632064",
                     "characters": [
@@ -5490,8 +5525,90 @@
             ]
         },
         {
+            "id": "newyear_illust_making_2023",
+            "content": [
+                {
+                    "title": "バーチャル・シンガー",
+                    "link": "https://www.youtube.com/watch?v=RyWP93LnLsk",
+                    "characters": [
+                        "miku",
+                        "rin",
+                        "len",
+                        "luka",
+                        "meiko",
+                        "kaito"
+                    ],
+                    "posted_date": "2023/01/01"
+                },
+                {
+                    "title": "Leo/need",
+                    "link": "https://www.youtube.com/watch?v=nTJGH1XOjlQ",
+                    "characters": [
+                        "ichika",
+                        "saki",
+                        "honami",
+                        "shiho"
+                    ],
+                    "posted_date": "2023/01/01"
+                },
+                {
+                    "title": "MORE MORE JUMP！",
+                    "link": "https://www.youtube.com/watch?v=gGWzhFJzPmY",
+                    "characters": [
+                        "minori",
+                        "haruka",
+                        "airi",
+                        "shizuku"
+                    ],
+                    "posted_date": "2023/01/01"
+                },
+                {
+                    "title": "Vivid BAD SQUAD",
+                    "link": "https://www.youtube.com/watch?v=8imWz6yzlhM",
+                    "characters": [
+                        "kohane",
+                        "an",
+                        "akito",
+                        "toya"
+                    ],
+                    "posted_date": "2023/01/02"
+                },
+                {
+                    "title": "ワンダーランズ×ショウタイム",
+                    "link": "https://www.youtube.com/watch?v=MfH_GC9i7Ys",
+                    "characters": [
+                        "tsukasa",
+                        "emu",
+                        "nene",
+                        "rui"
+                    ],
+                    "posted_date": "2023/01/03"
+                },
+                {
+                    "title": "25時、ナイトコードで。",
+                    "link": "https://www.youtube.com/watch?v=WFTTIPFGXV4",
+                    "characters": [
+                        "kanade",
+                        "mafuyu",
+                        "ena",
+                        "mizuki"
+                    ],
+                    "posted_date": "2023/01/03"
+                }
+            ]
+        },
+        {
             "id": "night_radio",
             "content": [
+                {
+                    "title": "#58",
+                    "link": "https://www.youtube.com/watch?v=YGxLVcVU5BI",
+                    "characters": [
+                        "mafuyu",
+                        "ena",
+                        "shizuku"
+                    ]
+                },
                 {
                     "title": "#57",
                     "link": "https://www.youtube.com/watch?v=yE55bOWUCYk",
@@ -6159,6 +6276,17 @@
         {
             "id": "sekai_station",
             "content": [
+                {
+                    "title": "#24",
+                    "link": "https://www.youtube.com/watch?v=4gyimubdgDo",
+                    "characters": [
+                        "rui"
+                    ],
+                    "creators": [
+                        "すりぃ"
+                    ],
+                    "posted_date": "2022/12/30"
+                },
                 {
                     "title": "#23",
                     "link": "https://www.youtube.com/watch?v=AVZi0SRabGk",
